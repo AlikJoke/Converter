@@ -1,0 +1,8 @@
+ru\converter\project\base\ConverterService.class
+ru\converter\project\base\MergeService.class
+ru\converter\project\web\controllers\ConverterController.class
+ru\converter\project\web\references\SplitterReference.class
+ru\converter\project\web\controllers\BaseController.class
+ru\converter\project\web\references\ReferenceBase.class
+ru\converter\project\web\references\ConverterReference.class
+ru\converter\project\base\AbstractService.class
