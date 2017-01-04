@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: ru.converter.project.test.converter.ConverterTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.189 sec <<< FAILURE!
-convertTest(ru.converter.project.test.converter.ConverterTest)  Time elapsed: 0.15 sec  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.207 sec <<< FAILURE!
+convertTest(ru.converter.project.test.converter.ConverterTest)  Time elapsed: 0.156 sec  <<< ERROR!
 java.lang.RuntimeException: Error while convert file to pdf
 	at ru.converter.project.base.ConverterService.start(ConverterService.java:28)
 	at ru.converter.project.test.converter.ConverterTest.convertTest(ConverterTest.java:35)
